@@ -4,9 +4,9 @@
 [![Website](https://img.shields.io/website?label=DPrinceKumar.com&style=for-the-badge&url=https://dprincekumar.github.io/MY-Portfolio/)](https://dprincekumar.github.io/MY-Portfolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abtdprincekumar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abtdprincekumar)
 
-## I'm a Student, Son, Devloper, Brother!
+## I'm a Student, Son, Developer, Brother!
 
-### 🔭 I’m currently working on complier
+### 🔭 I’m currently working on compiler
 - [VS Code Course] 
 - [Anaconda] 
 - [Pycharm Ce]
@@ -19,15 +19,15 @@
 
 
 ##### 🥅 2019 Goals[2nd quater]: 
-- 🎯Front-End devloper (Achived 🥳🥳)
-- 🎯Git &GitHub (Achived 🥳🥳)
+- 🎯Front-End Developer (Achieved 🥳🥳)
+- 🎯Git &GitHub (Achieved 🥳🥳)
 
 ##### 🥅 2020 Goals[May be by end]: 
 
 - Contribute more to Open Source projects 
 - 🎯Bootstrap (Done 🥳🥳)
-- 🎯Full-Stack devloper (will start on november 1) 
-- 🎯System Adminstator (Doing ☺️☺️)
+- 🎯Full-Stack Developer (will start on november 1) 
+- 🎯System Administrator (Doing ☺️☺️)
 - ⚡ Fun fact: I love to listen bass boosted songs 😅 / Game lover 
 ---
 ## :Portfolio
