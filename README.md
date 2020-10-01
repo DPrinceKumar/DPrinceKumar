@@ -22,7 +22,7 @@
 - 🎯Front-End Developer (Achieved 🥳🥳)
 - 🎯Git &GitHub (Achieved 🥳🥳)
 
-##### 🥅 2020 Goals[May be by end]: 
+##### 🥅 2020 Goals[may be by end]: 
 
 - Contribute more to Open Source projects 
 - 🎯Bootstrap (Done 🥳🥳)
