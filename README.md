@@ -10,25 +10,31 @@
 - [VS Code Course] 
 - [Anaconda] 
 - [Pycharm Ce]
+
 ### 🌱 I’m currently Learning 👨🏻‍💻👨🏻‍💻
-- [Python] 
-- [Linux ] 
+- [Java] 
+- [Networking ] 
 - [Backend ]
 
 ## 👯 I’m looking to collaborate with other content creators
 
-
-##### 🥅 2019 Goals[2nd quater]: 
-- 🎯Front-End Developer (Achieved 🥳🥳)
-- 🎯Git &GitHub (Achieved 🥳🥳)
-
-##### 🥅 2020 Goals[may be by end]: 
+## Started My Self Learning Journey 
+---
+##### 🥅 2020 Goals[ACHIEVED]: 
 
 - Contribute more to Open Source projects 
-- 🎯Bootstrap (Done 🥳🥳)
-- 🎯Full-Stack Developer (will start on november 1) 
-- 🎯System Administrator (Doing ☺️☺️)
+- 🎯Bootstrap 
+- 🎯Full-Stack Developer 
+- 🎯System Administrator
 - ⚡ Fun fact: I love to listen bass boosted songs 😅 / Game lover 
+
+##### 🥅 2021 Goals[may be by end]:
+- Contribute more to Open Source projects 
+- Reac JS 🎯
+- Node js 🎯
+- MongoDB 🎯
+- EXpress JS 🎯
+- ⚡ Fun fact:Loking for new oprions 😅
 ---
 ## :Portfolio
 
