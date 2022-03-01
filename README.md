@@ -1,7 +1,7 @@
 ### Hi there, I'm Prince Kumar - aka [DPrinceKumar]
 ### [website] 👋
 
-[![Website](https://img.shields.io/website?label=DPrinceKumar.com&style=for-the-badge&url=https://dprincekumar.github.io/MY-Portfolio/)](https://dprincekumar.github.io/MY-Portfolio/)
+[![Website](https://img.shields.io/website?label=DPrinceKumar.com&style=for-the-badge&url=https://dprincekumar.github.io/MY-Portfolio/)](https://portfolio-45644.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abtdprincekumar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abtdprincekumar)
 
 ## I'm a Student, Son, Developer, Brother!
