@@ -1,36 +1,31 @@
 ### Hi there, I'm Prince Kumar - aka [DPrinceKumar]
 ### [website] 👋
 
-[![Website](https://img.shields.io/website?label=DPrinceKumar.com&style=for-the-badge&url=https://dprincekumar.github.io/MY-Portfolio/)](https://portfolio-45644.web.app/)
+[![Website](https://img.shields.io/website?label=DPrinceKumar.com&style=for-the-badge&url=https://portfolio-45644.web.app/)](https://portfolio-45644.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abtdprincekumar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abtdprincekumar)
 
 ## I'm a Student, Son, Developer, Brother!
 
-### 🔭 I’m currently working on compiler
-- [VS Code Course] 
-- [Anaconda] 
-- [Pycharm Ce]
+### 🔭 I’m currently Learning
+- [PHP] 
+- [Laravel] 
+- [Node Js]
+- [Backend]
 
-### 🌱 I’m currently Learning 👨🏻‍💻👨🏻‍💻
-- [Java] 
-- [Networking ] 
-- [Backend ]
-
-## 👯 I’m looking to collaborate with other content creators
+## 👯 I’m looking to collaborate with other Developer 
 
 ## Started My Self Learning Journey 
 ---
-##### 🥅 2020 Goals[ACHIEVED]: 
+##### 🥅 2021 Goals[ACHIEVED]: 
 
 - Contribute more to Open Source projects 
-- 🎯Bootstrap 
-- 🎯Full-Stack Developer 
-- 🎯System Administrator
+- 🎯 Bootstrap
+- 🎯 React Js
+- 🎯 Android Development 
 - ⚡ Fun fact: I love to listen bass boosted songs 😅 / Game lover 
 
-##### 🥅 2021 Goals[may be by end]:
+##### 🥅 2022 Goals[may be by end]:
 - Contribute more to Open Source projects 
-- Reac JS 🎯
 - Node js 🎯
 - MongoDB 🎯
 - EXpress JS 🎯
@@ -91,7 +86,7 @@
 
 <br/>
 
-[website]: https://dprincekumar.github.io/MY-Portfolio/
+[website]: https://portfolio-45644.web.app/
 [twitter]: https://twitter.com/abtdprincekumar
 <!-- [youtube]: https://youtube.com/ -->
 [instagram]: https://www.instagram.com/abtdprincekumar/
