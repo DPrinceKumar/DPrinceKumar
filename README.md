@@ -6,88 +6,24 @@
 
 ## I'm a Student, Son, Developer, Brother!
 
-### 🔭 I’m currently Learning
-- [PHP] 
-- [Laravel] 
-- [Node Js]
-- [Backend]
+# 💫 About Me:
+🔭 I’m currently working on <br>[Angular ] [React] [.Net] [JavaScript] [Java]<br><br>
+👯 I’m looking to collaborate on<br>[Api making] [Back-End collab]<br><br>
+🌱 I’m currently learning<br>[Node js] [Express ] [MongoDb] <br>
 
-## 👯 I’m looking to collaborate with other Developer 
 
-## Started My Self Learning Journey 
----
-##### 🥅 2021 Goals[ACHIEVED]: 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abtdprincekumar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/abtdprincekumar) 
 
-- Contribute more to Open Source projects 
-- 🎯 Bootstrap
-- 🎯 React Js
-- 🎯 Android Development 
-- ⚡ Fun fact: I love to listen bass boosted songs 😅 / Game lover 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br><br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dprincekumar&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dprincekumar&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dprincekumar&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-##### 🥅 2022 Goals[may be by end]:
-- Contribute more to Open Source projects 
-- Node js 🎯
-- MongoDB 🎯
-- EXpress JS 🎯
-- ⚡ Fun fact:Loking for new oprions 😅
----
-## :Portfolio
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dprincekumar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DPrinceKumar&repo=MY-Portfolio&theme=radical)](https://github.com/DPrinceKumar/MY-Portfolio.git)
-
----
-
-### Connect with me:
-
-[<img align="left" alt="DPrinceKumar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="꧁Prince Kumar꧂ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="cpp" width="26px" src="https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png"/>
-
-<img align="left" alt="c_prog" width="26px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="c_prog" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-
-<br />
-<br />
-
----
-
-<a href="https://github.com/DPrinceKumar/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPrinceKumar&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/DPrinceKumar/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DPrinceKumar&show_icons=true&theme=radical" />
-
-</a>
-
-<br/>
-
-[website]: https://portfolio-45644.web.app/
-[twitter]: https://twitter.com/abtdprincekumar
-<!-- [youtube]: https://youtube.com/ -->
-[instagram]: https://www.instagram.com/abtdprincekumar/
-[linkedin]: https://www.linkedin.com/in/abtdprincekumar/
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
